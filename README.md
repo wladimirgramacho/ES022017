@@ -2,9 +2,9 @@
 Files and directories used in Software Engineering class @ University of Brasilia
 
 
-# Registration
+# Registrations
 
-| Nome 				| Registration	|
+| Name 				| Registration	|
 | ----------------- | ------------	|
 | Leonardo Almeida  | 150135491 	|
 | Marcus Vinícius   | 130032891 	|
